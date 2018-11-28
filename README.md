@@ -1,1 +1,1 @@
-Algorithm practices 
+## A repository for Algorithm practices 
